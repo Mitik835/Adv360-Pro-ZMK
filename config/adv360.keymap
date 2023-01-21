@@ -71,9 +71,9 @@
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans      &trans  &trans      &trans             &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans      &trans  &trans  &kp INSERT     &kp KP_NUMLOCK  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans      &trans                        &kp K_VOLUME_UP  &trans  &trans  &trans  &kp PSCRN  &kp PAUSE_BREAK  &kp SCROLLLOCK  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans      &trans  &trans      &trans  &kp K_VOLUME_DOWN  &trans  &trans  &trans  &kp GRAVE        &kp EQUAL        &kp PLUS  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &kp K_MUTE  &trans      &trans             &trans  &trans  &trans  &trans     &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans      &trans                        &kp C_VOLUME_UP  &trans  &trans  &trans  &kp PSCRN        &kp SLCK  &kp PAUSE_BREAK  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans      &trans  &trans      &trans  &kp C_VOLUME_DOWN  &trans  &trans  &trans  &kp GRAVE  &kp KP_NUMLOCK        &kp EQUAL  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &kp C_MUTE  &trans      &trans             &trans  &trans  &trans  &trans     &trans
             >;
         };
 
